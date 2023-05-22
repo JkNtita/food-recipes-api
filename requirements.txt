@@ -1,0 +1,6 @@
+# Example requirements.txt file
+
+Django>=3.2.4,<4.2.1
+djangorestframework>=3.12.4,<3.13
+importlib_metadata>=4.8.1
+
